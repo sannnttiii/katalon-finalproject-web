@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_nameproduct</name>
+   <tag></tag>
+   <elementGuidId>30f4295e-6ef2-49a1-9a52-cd4b8ec55b6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.roboto-regular.screen768.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Description']/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>557f4bd7-ecf1-46f5-be7e-683cf7d8fbb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular screen768 ng-binding</value>
+      <webElementGuid>c64faf6c-7988-4077-ae13-85b2fc85ae2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> HP PAVILION 15Z TOUCH LAPTOP </value>
+      <webElementGuid>6daba389-32f9-4bd7-adeb-556201b48cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Description&quot;)/h1[@class=&quot;roboto-regular screen768 ng-binding&quot;]</value>
+      <webElementGuid>0500fd7f-b1f2-4e13-b229-e055d8f96a61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Description']/h1</value>
+      <webElementGuid>371db466-dda7-48c2-8d5a-39229c5aaee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[1]/following::h1[1]</value>
+      <webElementGuid>8a645f1e-160d-4e85-84eb-02c172afda9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[2]/preceding::h1[1]</value>
+      <webElementGuid>f602676d-3d7d-4d22-ac48-a98b315c05a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h1</value>
+      <webElementGuid>2daff78a-ec06-4046-83b6-a8ec69f65b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' HP PAVILION 15Z TOUCH LAPTOP ' or . = ' HP PAVILION 15Z TOUCH LAPTOP ')]</value>
+      <webElementGuid>796e2fbe-262f-42b9-a1d2-7f8a40b22ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

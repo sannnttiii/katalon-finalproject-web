@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_cartnameproduct2</name>
+   <tag></tag>
+   <elementGuidId>aef0572f-a800-41a8-8038-1b3dc1b9d8cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shoppingCart']/table/tbody/tr[2]/td[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1577f92b-b51b-4d30-9157-ae5253ecc95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular productName ng-binding</value>
+      <webElementGuid>da2dfb29-4ff4-4d09-8047-c99861436c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP PAVILION 15Z TOUCH LAPTOP</value>
+      <webElementGuid>66976c5c-519b-4c28-8d9a-db43d29746be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shoppingCart&quot;)/table[@class=&quot;fixedTableEdgeCompatibility&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[2]/label[@class=&quot;roboto-regular productName ng-binding&quot;]</value>
+      <webElementGuid>a3bae42e-8f4c-468d-837e-487d85b464ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shoppingCart']/table/tbody/tr[2]/td[2]/label</value>
+      <webElementGuid>561adc78-c7c8-4c8e-bed5-221b098d98ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/following::label[1]</value>
+      <webElementGuid>af60677a-9d0c-4fa7-84e2-329f5dccec4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::label[1]</value>
+      <webElementGuid>30990e81-2659-4476-a92a-efccc10b1bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WARRANTY'])[3]/preceding::label[1]</value>
+      <webElementGuid>505b588e-5691-43cb-80f7-472df6f9c51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COLOR:'])[2]/preceding::label[2]</value>
+      <webElementGuid>1b66143a-5ede-4900-b525-8a60caa742aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/label</value>
+      <webElementGuid>0ca5a09e-5f69-41de-b553-ad2233f47c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'HP PAVILION 15Z TOUCH LAPTOP' or . = 'HP PAVILION 15Z TOUCH LAPTOP')]</value>
+      <webElementGuid>c43c2449-7496-4a17-8a1f-56a1ca137186</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

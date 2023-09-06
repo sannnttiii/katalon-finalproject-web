@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_priceproduct1</name>
+   <tag></tag>
+   <elementGuidId>372a4dad-a910-4858-87cd-4789150adcf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//tr[@id='product']/td[3]/p)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>707b6188-0344-4014-af89-fad006e1050a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price roboto-regular ng-binding</value>
+      <webElementGuid>fb667478-186a-4876-89ad-c98772a00666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$449.99</value>
+      <webElementGuid>5fe9cbfa-08ef-4160-a74d-00b039d577a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userCart&quot;)/tool-tip-cart[@id=&quot;toolTipCart&quot;]/div[1]/table[1]/tbody[1]/tr[@id=&quot;product&quot;]/td[3]/p[@class=&quot;price roboto-regular ng-binding&quot;]</value>
+      <webElementGuid>b8d43727-4205-4471-9673-af15d65c81f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//tr[@id='product']/td[3]/p)[4]</value>
+      <webElementGuid>bd7bc947-7a38-4c7c-a020-c57e37317fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BLACK'])[2]/following::p[1]</value>
+      <webElementGuid>ad5c3dc7-ce79-4589-8627-ed4630a7aa92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2 Items)'])[2]/preceding::p[1]</value>
+      <webElementGuid>a83f8935-e291-4040-9662-8da71275cd95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/tool-tip-cart/div/table/tbody/tr[2]/td[3]/p</value>
+      <webElementGuid>8d65294c-9365-431e-a5d1-562a62951d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$449.99' or . = '$449.99')]</value>
+      <webElementGuid>c299bef8-55bf-4341-8ce7-dedaea48ed22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
