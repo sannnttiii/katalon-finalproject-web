@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Edit profile with valid input</name>
+   <name>TC003_Edit profile with valid input</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>51de9989-4fd3-4039-a47e-30c62f63ff1d</testCaseGuid>
