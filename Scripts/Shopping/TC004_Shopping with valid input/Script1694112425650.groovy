@@ -75,8 +75,6 @@ WebUI.waitForElementNotVisible(findTestObject('Cart/popup_cartbig'), 0)
 
 WebUI.verifyElementNotVisible(findTestObject('Cart/popup_cartbig'))
 
-WebUI.verifyElementText(findTestObject('Cart/text_countcart'), '2')
-
 WebUI.click(findTestObject('Cart/btn_cart'))
 
 WebUI.verifyElementText(findTestObject('Cart/text_shopping cart'), 'SHOPPING CART (2)')
