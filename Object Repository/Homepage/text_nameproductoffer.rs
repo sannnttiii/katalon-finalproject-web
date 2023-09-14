@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_nameproductoffer</name>
+   <tag></tag>
+   <elementGuidId>553f68b6-d2bf-4cb2-baec-31f0ef7dc963</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.roboto-thin.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-special-offer']/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e3d52786-6ba1-4cf0-b28c-94c053814c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-thin ng-binding</value>
+      <webElementGuid>dabd6ad2-e375-4774-87fe-e0c6bc427a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> HP Pavilion 15z Touch Laptop </value>
+      <webElementGuid>13f2f0be-f35e-4354-8012-a00ea45cb05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-special-offer&quot;)/div[1]/h1[@class=&quot;roboto-thin ng-binding&quot;]</value>
+      <webElementGuid>6667922d-14f4-490b-9736-0ba3e4d9d568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-special-offer']/div/h1</value>
+      <webElementGuid>3f16ec49-9a31-4ad7-8607-50818800c533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPLORE THE NEW DESIGN'])[1]/following::h1[1]</value>
+      <webElementGuid>b51d65f9-d7d9-457a-bad5-950aa66d6e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPECIAL OFFER'])[2]/following::h1[1]</value>
+      <webElementGuid>bb3573b5-8b5c-4fbf-8c63-72c0a1ac0b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEE OFFER'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1aca2d45-a8b0-4bf3-88d7-427303027fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL YOU WANT FROM A TABLET'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8944f4ff-7fff-460f-a56a-35881412eb6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>017177ef-75ff-472b-940c-1425eaf90eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' HP Pavilion 15z Touch Laptop ' or . = ' HP Pavilion 15z Touch Laptop ')]</value>
+      <webElementGuid>e02f100c-c50c-48eb-8fa9-4ee9bde597c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
